@@ -1,2 +1,2 @@
 # Python-Programs
-Python programs for Cyberlabs and Learndot Problems
+Python programs for Cyber Labs and Learn Dot Problems
